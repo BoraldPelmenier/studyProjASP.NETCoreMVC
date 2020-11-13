@@ -7,3 +7,12 @@
                          background-color: #fee; }
 .validation-summary-errors { font-weight: bold; color: #f00; }
 .validation-summary-valid { display: none; }
+
+form{
+    margin: 0 auto;
+    background: rgb(0, 148, 255);
+    width: 450px;
+    height: 500px;
+    padding: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+}
